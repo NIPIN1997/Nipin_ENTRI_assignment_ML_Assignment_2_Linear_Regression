@@ -14,6 +14,7 @@ The regression algorithms used are:
 3. Random Forest Regressor
 4. Gradient Boosting Regressor
 5. Support Vector Regressor
+
 For each model the following parameters are calculated:
 1. Mean Squared Error(MSE)
 2. Mean Absolute Error(MAE)
